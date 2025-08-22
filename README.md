@@ -17,7 +17,7 @@ The project is now available to view at https://3d.themagehub.com/
 
 - Now you can play around with Car 3D Models!
 
-![localhost_3000_ (1)](https://github.com/longtv2222/3D-Car-Viewer/assets/61606375/cef2a398-70d4-4c54-ae9c-52d1598198af)
+
 
 ## Components
 
